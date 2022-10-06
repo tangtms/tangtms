@@ -29,3 +29,7 @@ I am a Developer from Bangkok Thailand.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="React" width="40" height="40"/>&nbsp;
 </p>
 <br />
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangtms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
