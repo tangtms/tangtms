@@ -30,6 +30,6 @@ I am a Developer from Bangkok Thailand.
 </p>
 <br />
 
-### Stats
+### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangtms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
