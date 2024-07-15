@@ -33,9 +33,3 @@ I am a Developer from Bangkok Thailand.
 ### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangtms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangtms&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tangtms&theme=transparent&utcOffset=7" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangtms&theme=transparent" />
-</p>
